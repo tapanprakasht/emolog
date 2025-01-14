@@ -2,5 +2,8 @@
 name = "emolog"
 version = "0.1.0"
 edition = "2021"
+description = "Emoji based logger for debugging"
+license = "MIT"
+keywords = ["logger", "emoji"]
 
 [dependencies]
