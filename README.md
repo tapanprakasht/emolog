@@ -2,6 +2,8 @@
 
 emolog is a simple logging library which shows emojis in the log messages. 
 
+[![](https://img.shields.io/crates/v/emolog.svg)](https://crates.io/crates/emolog) [![Docs](https://docs.rs/emolog/badge.svg)](https://docs.rs/emolog)
+
 ## Usage
 ```rust
 use emolog::{emolog_critical, emolog_error, emolog_info, emolog_success, emolog_warn};
